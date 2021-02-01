@@ -1,7 +1,5 @@
 # P217_01.02.21_JavaScript_Intro
 
-# Front-End Lesson 11, JS - Homework (12.12.2020)
-
 ## Lessons topics:
 
 1. **JavaScript Fundamentals:**
